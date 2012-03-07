@@ -6,7 +6,7 @@ $lang['intro_text']		=	'Complete o formulário abaixo e clique no botão "Instal
 
 $lang['db_settings']	=	'Configuração do banco de dados';
 $lang['db_create']		=	'Criar banco de dados';
-$lang['db_notice']		=	'Você talvez precise fazer isto manualmente';
+$lang['db_notice']		=	'Talvez você precise criá-lo manualmente';
 $lang['default_user']	=	'Usuário padrão do PyroCMS';
 $lang['database']		=	'Banco de dados';
 $lang['site_settings']	= 	'Configurações do site';
@@ -17,7 +17,7 @@ $lang['last_name']		=	'Último nome';
 $lang['email']			=	'Email';
 $lang['password']		= 	'Senha';
 $lang['conf_password']	=	'Confirme a senha';
-$lang['finish']			=	'Concluír a instalação';
+$lang['finish']			=	'Concluir a instalação';
 
 $lang['invalid_db_name'] = 'The database name you entered is invalid. Please use only alphanumeric characters and underscores.'; #translate
 $lang['error_101']		=	'O banco de dados não pode ser criado. Isto pode ter falhado se você marcou para criar o banco de dados e não possui permissões suficientes.';
