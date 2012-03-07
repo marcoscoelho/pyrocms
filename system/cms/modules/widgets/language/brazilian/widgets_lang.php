@@ -25,7 +25,7 @@ $lang['widgets.widget_area'] 				= 'Área';
 $lang['widgets.widget_area_title'] 			= 'Nome da área';
 $lang['widgets.widget_area_slug'] 			= 'Apelido da área';
 
-$lang['widgets.view_code']				= 'View Code'; #translate
+$lang['widgets.view_code']				= 'Ver o código';
 
 $lang['widgets.instance_title']				= 'Título';
 $lang['widgets.tag_title']					= 'Tag';

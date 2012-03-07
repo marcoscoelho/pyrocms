@@ -133,7 +133,7 @@ $lang['settings_form_option_Newest First']		= 'Novos primeiro';
 $lang['settings_edit_title']					= 'Editar configurações';
 
 // messages
-$lang['settings_no_settings']					= 'There are currently no settings.'; #translate
+$lang['settings_no_settings']					= 'Não existem configurações atualmente.';
 $lang['settings_save_success']					= 'Suas configurações foram salvas!';
 
 /* End of file settings_lang.php */

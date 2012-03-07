@@ -66,12 +66,12 @@ $lang['user_lang']						= 'Idioma';
 
 $lang['user_activation_code'] 			= 'Código de ativação';
 
-$lang['user_reset_instructions']			   = 'Enter your email address or username'; #translate
+$lang['user_reset_instructions']			   = 'Digite o seu endereço de e-mail ou nome de usuáro';
 $lang['user_reset_password_link'] 		= 'Esqueceu sua senha?';
 
 $lang['user_activation_code_sent_notice']	= 'Um e-mail foi enviado com o seu código de ativação.';
 $lang['user_activation_by_admin_notice'] 	= 'Seu cadastro está aguardando aprovação de um administrador.';
-$lang['user_registration_disabled']            = 'Sorry, but the user registration is disabled.'; #translate
+$lang['user_registration_disabled']            = 'Desculpe, mas o cadastramento está desabilitado.';
 
 // -- Settings ---------------------------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ $lang['user_mass_delete_error'] 				= 'Você precisa selecionar usuários primei
 // Register
 $lang['user_email_pass_missing'] 				= 'Os campos de e-mail e/ou senha não foram preenchidos.';
 $lang['user_email_exists'] 						= 'O endereço de email que você escolheu já está em uso por outro usuário.';
-$lang['user_register_error']				   = 'We think you are a bot. If we are mistaken please accept our apologies.'; #translate
+$lang['user_register_error']				   = 'Pensamos que você é um robo. Se nós estivermos enganados por favor aceite nossas desculpas.';
 $lang['user_register_reasons'] 					= 'Entre para acessar áreas especiais que normalmente são restritas. Isto significa que você será relembrado, terá acesso a mais conteúdos e menos publicidade.';
 
 

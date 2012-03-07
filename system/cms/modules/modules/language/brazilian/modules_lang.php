@@ -3,7 +3,7 @@
 $lang['modules.core_list']				= 'Módulos nativos';
 $lang['modules.addon_list']				= 'Módulos de terceiros';
 $lang['modules.introduction']			= 'Abaixo está a lista de módulos instalados e suas informações, incluindo a descrição e versão.';
-$lang['modules.core_introduction']		 = 'Below is a list of core modules and their information. You may disable them but do so with extreme care. Disabling modules such as Users will render your site inoperable.'; #translate
+$lang['modules.core_introduction']		 = 'Abaixo está uma lista dos módulos nativos e suas informações. Você pode desativá-los, mas faça isso com extremo cuidado. Desabilitar módulos, tais como utilizadores pode tornar o seu site inoperável.';
 $lang['modules.disable_error'] 			= 'Não foi possível desabilitar o módulo "%s".';
 $lang['modules.disable_success']		= 'O módulo "%s" foi desativo.';
 $lang['modules.enable_error']			= 'Não foi possível ativar o módulo "%s".';

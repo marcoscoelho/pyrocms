@@ -14,7 +14,7 @@ $lang['nav_type_label'] 						= 'Tipo do Link';
 $lang['nav_uri_label'] 							= 'Link do Site (URI)';
 $lang['nav_page_label'] 						= 'Página';
 $lang['nav_module_label'] 						= 'Modulo';
-$lang['nav_restricted_to']						= 'Restricted To'; #translate
+$lang['nav_restricted_to']						= 'Restrito a';
 $lang['nav_abbrev_label'] 						= 'Abreviação';
 
 $lang['nav_link_target_self'] 					= 'Janela atual (default)';
@@ -25,7 +25,7 @@ $lang['nav_link_create_title'] 					= 'Adicionar link de navegação';
 $lang['nav_group_create_title']					= 'Adicionar um grupo';
 $lang['nav_link_edit_title'] 					= 'Editar link de navegação "%s"';
 $lang['nav_link_list_title'] 					= 'Links';
-$lang['nav_group_list_title']                   = 'Groups'; #translate
+$lang['nav_group_list_title']                   = 'Grupos';
 
 // messages
 $lang['nav_group_no_links'] 					= 'Não existem links neste grupo.';
@@ -40,7 +40,7 @@ $lang['nav_link_not_exist_error'] 				= 'Este link de navegação não existe.';
 $lang['nav_link_edit_success'] 					= 'O link de navegação foi salvo.';
 $lang['nav_link_delete_success'] 				= 'O link de navegação foi removido.';
 
-$lang['nav_choose_value']						= 'The %s field must not be empty.'; #translate
+$lang['nav_choose_value']						= 'O campo %s não pode ficar sem preenchimento.';
 $lang['nav_link_type_desc'] 					= 'Por favor, selecione o tipo do link para exibir mais opções e continuar a criá-lo.';
 
 /* End of file navigation_lang.php */

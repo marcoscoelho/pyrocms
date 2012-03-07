@@ -1,6 +1,6 @@
 <?php
 
-$lang['cp_admin_title'] 				= 'Painel de Controle';
+$lang['cp_admin_title'] 				= 'Painel de controle';
 $lang['global:dashboard'] 			= 'Dashboard';
 $lang['cp_admin_quick_links']			= 'Atalhos rápidos';
 

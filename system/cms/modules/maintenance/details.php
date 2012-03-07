@@ -19,7 +19,8 @@ class Module_Maintenance extends Module
 				'el' => 'Συντήρηση',
 				'ar' => 'الصيانة',
 				'zh' => '維護',
-				'id' => 'Pemeliharaan'
+				'id' => 'Pemeliharaan',
+				'br' => 'Manutenção'
 			),
 			'description' => array(
 				'en' => 'Manage the site cache and export information from the database.',
@@ -27,7 +28,8 @@ class Module_Maintenance extends Module
 				'el' => 'Διαγραφή αντικειμένων προσωρινής αποθήκευσης μέσω της περιοχής διαχείρισης.',
 				'ar' => 'حذف عناصر الذاكرة المخبأة عبر واجهة الإدارة.',
 				'zh' => '經由管理介面手動刪除暫存資料。',
-				'id' => 'Mengatur cache situs dan mengexport informasi dari database.'
+				'id' => 'Mengatur cache situs dan mengexport informasi dari database.',
+				'br' => 'Gerenciar os diretórios de cache do site e exportar informações do banco de dados.'
 			),
 			'frontend' => FALSE,
 			'backend' => TRUE,
